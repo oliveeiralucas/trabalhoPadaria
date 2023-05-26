@@ -107,25 +107,25 @@ Utilizamos esses recursos para a construção do projeto
 <table>
   <tr>
     <td align="center">
-        <img src="/trabalhoPadaria/integrante4.jpg" width="100px;" alt="Foto "/><br>
+        <img src="https://github.com/oliveeiralucas/trabalhoPadaria/blob/main/integrante4.jpg?raw=true" width="100px;" alt="Foto "/><br>
         <sub>
           <b>Anna julia</b>
         </sub>
     </td>
     <td align="center">
-        <img src="/trabalhoPadaria/integrante1.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://github.com/oliveeiralucas/trabalhoPadaria/blob/main/integrante1.jpg?raw=true" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Ana Flávia</b>
         </sub>
       </a>
     <td align="center">
-        <img src="/trabalhoPadaria/integrante3.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://github.com/oliveeiralucas/trabalhoPadaria/blob/main/integrante3.jpg?raw=true" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Julya Milena</b>
         </sub>
     </td>
     <td align="center">
-        <img src="/trabalhoPadaria/integrante2.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://github.com/oliveeiralucas/trabalhoPadaria/blob/main/integrante2.jpg?raw=true" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
           <b>Layza Maia</b>
         </sub>
