@@ -12,11 +12,11 @@
 }
 
 :root{
-    --bg-color: #fdfdfd;
-    --bg-color-dark-mode: #0d051c; 
+    --bg-color: #F9FBE7;
     --text-color: #333;
-    --main-color: #6f51ec;
+    --main-color: #FEA1A1;
     --white-color: #fdfdfd;
+    --emphasi-color: #ECCDB4;
     --shadow-color: rgba(0, 0, 0, .2);
 }
 
