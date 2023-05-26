@@ -1,0 +1,88 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+  *{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+:root{
+    --bg-color: #F9FBE7;
+    --text-color: #333;
+    --main-color: #FEA1A1;
+    --white-color: #fdfdfd;
+    --emphasi-color: #ECCDB4;
+    --shadow-color: rgba(0, 0, 0, .2);
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+body{
+    background-color: var(--bg-color);
+}
+
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imageBemVindo{
+    display: flex;
+    justify-content: center;
+    width: 60vw;
+    height: 60vw;
+}
+
+.textoBemVindo{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    text-transform: capitalize;
+}
+
+.textoBemVindo h1{
+    font-weight: 600;
+}
+
+.paragrafoBemVindo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 300;
+    width: 80vw;
+    margin: 2rem 0;
+}
+
+.botaoBemVindo{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 10rem;
+}
+
+.botaoBemVindo button{
+    padding: 2rem 5rem;
+    color: var(--text-color);
+    background-color: var(--main-color);
+    border-radius: 0.5rem;
+    font-size: 1.8rem;
+}
+
+.botaoBemVindo:active,
+.botaoBemVindo:focus{
+    transform: scale(0.9);
+    opacity: 0.9;
+}
